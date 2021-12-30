@@ -1,4 +1,4 @@
-# Moon2Emotes_spritesheets
+# Moon2Emotes_Sprite Sheets
 Spritesheets and their related resources of channel emotes for MoonJam
 
 
